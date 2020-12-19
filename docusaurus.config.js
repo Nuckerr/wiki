@@ -70,7 +70,7 @@ module.exports = {
             },
             {
               label: 'GitHub',
-              href: 'https://github.com/nuckerr/wiki',
+              href: 'https://github.com/nuckerr/wiki/edit/master/website/',
             },
           ],
         },
